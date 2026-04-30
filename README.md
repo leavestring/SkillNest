@@ -18,6 +18,8 @@
 
 <p align="center">
   <a href="https://leavestring.github.io/SkillNest/"><strong>🔗 在线演示：leavestring.github.io/SkillNest</strong></a>
+  <br>
+  <sub>（初版静态网页，持续更新中。欢迎提交 Skill 或提出建议。）</sub>
 </p>
 
 <p align="center">
