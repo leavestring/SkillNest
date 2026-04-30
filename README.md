@@ -10,8 +10,14 @@
   发现 · 分享 · 共建 Claude Code 技能生态
 </p>
 
+## 预览
+
 <p align="center">
-  <a href="https://leavestring.github.io/SkillNest/"><strong>🔗 在线演示</strong></a>
+  <img src="images/preview.png" alt="SkillNest 预览截图" width="800">
+</p>
+
+<p align="center">
+  <a href="https://leavestring.github.io/SkillNest/"><strong>🔗 在线演示：leavestring.github.io/SkillNest</strong></a>
 </p>
 
 <p align="center">
