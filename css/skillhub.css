@@ -598,6 +598,10 @@ strong { font-weight: 600; }
 .footer-links span { margin: 0 6px; color: var(--border); }
 .footer-copy { color: var(--text-subtle); font-size: .78rem; }
 
+.footer-credit { color: var(--text-subtle); font-size: .75rem; margin-top: 6px; }
+.footer-credit a { color: var(--text-muted); text-decoration: none; transition: color .2s; }
+.footer-credit a:hover { color: var(--primary); }
+
 /* ========== Detail Page ========== */
 
 .detail-header {
